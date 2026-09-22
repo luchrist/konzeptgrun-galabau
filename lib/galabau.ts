@@ -107,8 +107,8 @@ export const galabau: GalabauConfig = {
     "teamSize": "",
     "machines": ""
   },
-  "claim": "Gärten anlegen und pflegen in Limburgerhof und der Vorderpfalz.",
-  "heroSubline": "Gartenneuanlage, Pflaster, Terrasse, Zaun und Pflege aus einer Hand. Gelernter Landschaftsgärtner mit über zehn Jahren Erfahrung, Einsatzgebiet rund 40 km um Limburgerhof.",
+  "claim": "KonzeptGrün GalaBau",
+  "heroSubline": "Garten- & Landschaftsbau in Limburgerhof & Umgebung",
   "services": [
     {
       "key": "gartenneugestaltung",
