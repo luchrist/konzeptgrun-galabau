@@ -1,0 +1,38 @@
+[
+  {
+    "originalFile": "scraped-02.jpg",
+    "file": "photos/projekte/frisch-verlegter-rasen-im-garten-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Frisch verlegter Rasen im Garten",
+    "subjectSlug": "frisch-verlegter-rasen-im-garten",
+    "description": "Ein gepflegter, frisch verlegter Rasen bildet das Herzstück dieses Gartens, umgeben von Stufen und einem Holzzaun."
+  },
+  {
+    "originalFile": "api-02.jpg",
+    "file": "photos/baustellen/gartenbaustelle-mit-neuem-rasen-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Gartenbaustelle mit neuem Rasen",
+    "subjectSlug": "gartenbaustelle-mit-neuem-rasen",
+    "description": "Ein frisch verlegter Rasen in einem Garten, umgeben von Stufen und einem Zaun, mit noch unfertigen Randbereichen."
+  },
+  {
+    "originalFile": "api-03.jpg",
+    "file": "photos/projekte/gartenteich-mit-wasserfall-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Gartenteich mit Wasserfall",
+    "subjectSlug": "gartenteich-mit-wasserfall",
+    "description": "Ein angelegter Gartenteich mit einem Wasserfall aus Betonsteinen und einer Natursteinmauer."
+  },
+  {
+    "originalFile": "api-06.jpg",
+    "file": "photos/baustellen/gartenbaustelle-mit-neuer-terrasse-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Gartenbaustelle mit neuer Terrasse",
+    "subjectSlug": "gartenbaustelle-mit-neuer-terrasse",
+    "description": "Eine Gartenbaustelle mit einer neu verlegten Terrasse und vorbereitetem Erdreich für die weitere Gestaltung."
+  }
+]
